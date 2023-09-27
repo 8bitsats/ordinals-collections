@@ -1,0 +1,648 @@
+// inscriptions.json
+
+[
+  {
+    "id": "581183c11e86e79372abe9085b25bbfa0e6a51f8f9cd2d623830290462ae7e5ei0",
+    "meta": {
+      "name": "Trippy Forest",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9aa7558f8e967f2db137d82556c96cf1bb1a49f41594dd7447f5783a0b516036i0",
+    "meta": {
+      "name": "Drip",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c13845f0a1a580e7e00d3477deb5adc731236060d58c566da7285c471105e71ci0",
+    "meta": {
+      "name": "Fractalized GRain",
+      "attributes": []
+    }
+  },
+  {
+    "id": "779a031838d2435f78405e9a4da635ec44d8d2a07ce377fe049a9e45486baac7i0",
+    "meta": {
+      "name": "Noir Nights",
+      "attributes": []
+    }
+  },
+  {
+    "id": "ff2a3526b70bfe1f0277349d3708395c13d17a17e22f1aaabb6167aec09b45cbi0",
+    "meta": {
+      "name": "Decentralized Fiber-optics",
+      "attributes": []
+    }
+  },
+  {
+    "id": "90b374154ab452db98914cbe14ffdd653ee719cd9f0604d32b1b17479d2f638ai0",
+    "meta": {
+      "name": "King in Da Castle",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0cbdb396cd46bf36ccdb40187d55d620c1c4f84e66fb46515f5326c74ec2840ci0",
+    "meta": {
+      "name": "Decentralized Disco",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c2ad89c92257ebe313ab3346e498ed40b399515bc59c3de4de17b37c0b73b388i0",
+    "meta": {
+      "name": "Matrix",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2e5231a86cf00ea60aafeff273399f63f0df5948e736cb19eec16d1702597ddai0",
+    "meta": {
+      "name": "ArtDecordinally",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2f814fe9159a24153532ec5bf2c8d9354104ed3aa84a0ecd999d3d0911c6378ei0",
+    "meta": {
+      "name": "Wormhole",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4124df78b2e2a7f74d4832a6b6553bb1ed75628904280939317e9cc4dba1df12i0",
+    "meta": {
+      "name": "Bitworld",
+      "attributes": []
+    }
+  },
+  {
+    "id": "511ba0a35e8cb255d983dc83af3a482c12a266207dd7129ab2fd1d7fb264c4d1i0",
+    "meta": {
+      "name": "Budderfly Effect",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a00fc24346c861a67e57e61617b2a54534193465622d07ed6da4c147ed390ec0i0",
+    "meta": {
+      "name": "Jenga",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7ee973d41c32e9f7a7a5d7a393d9cbf6cd663d1cbc4a3bb8feb0707d298b2590i0",
+    "meta": {
+      "name": "OrdPepen 1",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0324b2cb9bd34a5c78e6abd56bb3eea4c204a2b6375301988ce7f8a79e25203di0",
+    "meta": {
+      "name": "Waves",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0ead9a0ae33d6045eb088a226c555a95e661fcaf117b616ef938cedfaa05a9e1i0",
+    "meta": {
+      "name": "Decentralized Mathematics",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0ef2de4553c4ad33f25d5a800435c9343fb4b5b33aa32758a87fbddb7f833910i0",
+    "meta": {
+      "name": "SpiroGraph",
+      "attributes": []
+    }
+  },
+  {
+    "id": "178689aec2a690fed0a1c4b6614f4b42842cf7f82dae86d04da0df2bd8dc6e17i0",
+    "meta": {
+      "name": "Ordinals Lake",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1c5af52df6dfe22f1ca459f84946098ef9f8b630ab290451b03005ca0b4e0fafi0",
+    "meta": {
+      "name": "BitGen",
+      "attributes": []
+    }
+  },
+  {
+    "id": "23724b189964740b39b555db36532419275a68fffd0572a1c707c9fe03c40846i0",
+    "meta": {
+      "name": "Watermelon Slices",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2694e861dba87a65c76559ea3c4130a0f1d7c1ebfd8a5a03f407b47ec7dd0a85i0",
+    "meta": {
+      "name": "Fractalized Tree",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2965c48dcf0761684145123bc5a322403a7ab6098fe9970103ed21979f5f9111i0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2a5e7ef66609d7e11a43f5221d2ba5f65c1289df52ea928b2c96d8ce84aab0c2i0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2b954436940c325602e6acf18a98c592ba9f15bae27432dd977102661fb5a322i0",
+    "meta": {
+      "name": "BitBlocs",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2be6e00b9e23ab0838bf32cc76d9b4f4bf5105b92a5621943a8f56e5b2aff09ei0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2f35e68a929a2d688b5b1ee5457065221dff22e0ccd08fb005995a68959d656fi0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2f814fe9159a24153532ec5bf2c8d9354104ed3aa84a0ecd999d3d0911c6378ei0",
+    "meta": {
+      "name": "Wormhole",
+      "attributes": []
+    }
+  },
+  {
+    "id": "38b8f5c2cade624d62cbae6dc9df30d30fe08675f792520abf1c4071bfbf69d6i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3b3a091edff0efe111ef68dbbe377671ce949f771d36b04df19773e4bbcceb83i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "40b11e6d2b504a61207ad3f3bf77672cdaca0af2ad26bcb076651ef39b80c4f6i0",
+    "meta": {
+      "name": "Flo",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4588a45d79b516397d7f8783e02382c0797012754dc6829c7965fd8a75f5c78di0",
+    "meta": {
+      "name": "Decentralized City",
+      "attributes": []
+    }
+  },
+  {
+    "id": "47810c26eeb068a923c921ffd5542c1021f0f74f7f856f50071c0cf92cc22bc1i0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4d55455eb712fb2b756b04ee30b9a16c661a07bd4df3921977c7feb98c804a5ai0",
+    "meta": {
+      "name": "Mixtape",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4d7010ef5036a5d822ca0ff3e38ef5f1528a3e6a59e478aa5a1054a0a2358784i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4eddad9367c7b9f042e1a3ff723a626efe67fe69ffc9cd4933e9090a340cfe02i0",
+    "meta": {
+      "name": "Geome Bloc",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4f08ea77076a83f7cd3a2f1f857ca2c91cb1800392d79afe833ec995e3474c58i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4f15e46f86b3135af581dcc0f9fdb12d3e12b829de5d9faf2844525a7270cbfdi0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "57f429ea3ecbcbfb26f3251d8918d460c12ebf3a32df8d95e50aad49346335a6i0",
+    "meta": {
+      "name": "Fibre-Artics",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5802006f6b080a852fd06b7f06520a06f261627a017fb75803b1fc1481bb8ed6i0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "580b540111914b030d765a0a4fbe07afb000fec61dc8cea6a0e2b0d2d1ac24a6i0",
+    "meta": {
+      "name": "Waterfall Drip",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5c785e1d9c4790f1756c5993cc096af79bd295774bd90f606b2e6008d9847231i0",
+    "meta": {
+      "name": "BitBloc",
+      "attributes": []
+    }
+  },
+  {
+    "id": "633043c594d13dc1a36c82885705a346df4e6a89c46d53582eb41df08d63961ai0",
+    "meta": {
+      "name": "Spherical",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6c62b6f5d38d0a9f9d1015c1aceb7f7ce36539244ffda6832e94ea9797f714dci0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6f823ec9458f3f5e427c930b3db438f870096a402608b76535a616643523e2c1i0",
+    "meta": {
+      "name": "Spire",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6f869aa48744c4055f1e234ecf596afa7e877a08a325d348f7cf83192aa7ee11i0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "785a95f67ddbecdb6a242abd4753e528af759e7f0df60fb169508a355e40472bi0",
+    "meta": {
+      "name": "The Mempool",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7e3bc8dde01c839a6b25fb3873381ff5cbdfadf7ef3b7f747bad768603d7b95bi0",
+    "meta": {
+      "name": "Far out ",
+      "attributes": []
+    }
+  },
+  {
+    "id": "82ed03b6cc31cc0fc7783dc3b4583e344abd593759c6a15cf683ee78fd9e6f28i0",
+    "meta": {
+      "name": "Fractal Grain",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8de322245c386f821b4b8a2c2955b9daa3fd0b01b3d131ac542079b7b744815fi0",
+    "meta": {
+      "name": "Decentralized Discoteck",
+      "attributes": []
+    }
+  },
+  {
+    "id": "82f57e73e77b0f26434a849dedfd227b65904bd2c80d86e692884205b3b5834bi0",
+    "meta": {
+      "name": "Butterfly Effect",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a56f4995398866c0618cd8cdc4f2c799597c65f688260e34bf92c112a326a77bi0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "af9fe5bd8e3a53dbb54aa71717deafe3aa5371e5017c07965cdf801003119a84i0",
+    "meta": {
+      "name": "To infinity and beyond",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b63e5569f5ea6a4b929e9016f81368e7952a9d674b9edd867b7a08ec78349a9ci0",
+    "meta": {
+      "name": "Spiralized Bloc",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c4997d161baf08c03efdfd7c5fc0529d8f2435fa69caada552b58807f291e1c2i0",
+    "meta": {
+      "name": "Bloc Galaxy",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c983a706a8737c3541d6cd13d983e31a53849d2f80669bda5a0ae3416b986672i0",
+    "meta": {
+      "name": "Generation of Bloc",
+      "attributes": []
+    }
+  },
+  {
+    "id": "cd318070e634417dfdc1964ebf4523c8556bab1270376288343f81d3ace499a8i0",
+    "meta": {
+      "name": "Geome",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d131c57512048af4e5e1f1c7e10abdc11f0d166e65f5633333b13de0065707d6i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d7cda08661ed262527750733ef37bc76a130ccaa80b408227bd463255119856ai0",
+    "meta": {
+      "name": "Fidenzordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e56ddd0cc04c684b67e7d03d6b333b54f427dc10d1051ab8ef0735557ac10ff6i0",
+    "meta": {
+      "name": "RainDrip",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e6a099ffefd3a16af3a9047e479ca1c28d297937545d81fe6bbc3076cbd57f2di0",
+    "meta": {
+      "name": "Bitception",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e7d045e0af01f6e06fd51e5b7250db8c4bf0e6b8f6f4ff6560c3f237b7b03c48i0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "edcbf4f063a5fff1216cd61bddc990aa7013c677ca6c19f7d8ec808b074b2198i0",
+    "meta": {
+      "name": "Neon Pollock",
+      "attributes": []
+    }
+  },
+  {
+    "id": "ee880a610b51ee5bfcef9f47d0aea628ab0d92ffcc9a96c5c2df2f49866d60c6i0",
+    "meta": {
+      "name": "SprioBloc",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f8baa968551564551d9450a07978e4312c8c68e2ae2ebfff1d4eb6d6ecb5499bi0",
+    "meta": {
+      "name": "Retrordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "fc3c0c3bda344940da6e595a6bdfcf77cc7379739e55d98f27a78b963d74b7b3i0",
+    "meta": {
+      "name": "Waves",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f29b919fe84488a09c03e0452a069c2edb362551aae097d54efdc09c36f6799ai0",
+    "meta": {
+      "name": "Decentralized Spirals",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e2b4ae12b2d741cb10797be70f427a54727ea543c05dfd188679f30bfa3d5670i0",
+    "meta": {
+      "name": "Bloctomic",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d1475d35061e76a5a7c824e1c189ca8560863029abd78dd9b65d867ec039300fi0",
+    "meta": {
+      "name": "MicroProcess",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a6678f84c97679a8698ce9cd6b4282eaf5a85aa963bbba1c6b72e9396710466bi0",
+    "meta": {
+      "name": "Spriographical",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9ef834cfb376b7301c7b3d1696e0ac45aed583a9d0c82cf192e394f2147a9464i0",
+    "meta": {
+      "name": "Fraptiousday",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6c62b6f5d38d0a9f9d1015c1aceb7f7ce36539244ffda6832e94ea9797f714dci0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e33de4ee06b364a3bf80170dd008229d3a2dcd7654164e2705ea696993feaceai0",
+    "meta": {
+      "name": "TrippyFlower",
+      "attributes": []
+    }
+  },
+  {
+    "id": "97cb1484a1c38d049222c591150e43cd809697886adbf4e5a98bc63f6686001ai0",
+    "meta": {
+      "name": "YourALegend",
+      "attributes": []
+    }
+  },
+  {
+    "id": "eed2ec76d885deadb4530614a925afcc3c1bb642a82d2a48aef581355e2554f9i0",
+    "meta": {
+      "name": "BlocMatrix",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6f486a70c1043662e251ec701c624f9be0ebf7977b52a504d431d87f99c93cebi0",
+    "meta": {
+      "name": "Art Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "779a031838d2435f78405e9a4da635ec44d8d2a07ce377fe049a9e45486baac7i0",
+    "meta": {
+      "name": "Circuit City",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a0561130dfc5d8f1168db2832ed59d12b2f3673ee3a8252b73b9bdd5ff30e450i0",
+    "meta": {
+      "name": "Circuit City",
+      "attributes": []
+    }
+  },
+  {
+    "id": "36773ee422a4e6d67e8c5eab1e357fbbe92086c77be6d2e8e5e12c65ed992a30i0",
+    "meta": {
+      "name": "Ordpepen",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6212cf893d0ad1bf5db99141956164281c5f3feff8c4a51087190bdaeec745d8i0",
+    "meta": {
+      "name": "Retrodinally",
+      "attributes": []
+    }
+  },
+  {
+    "id": "dbf0263a7367a66de622637283d776dd55d6b6dc3c5ca76ceb6f2c81cf8913a8i0",
+    "meta": {
+      "name": "Triangular Prism",
+      "attributes": []
+    }
+  },
+  {
+    "id": "74df0ac50a2c614eaa909c5601edaf326fa8de8269bdee7823709a382058b5aci0",
+    "meta": {
+      "name": "Staind",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3529c08f86d991568c9071689cc08ae9546f46ea5008be07d0e90e8ce03d24cei0",
+    "meta": {
+      "name": "Decentralized Cubiks",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9b88c6b363764d359484029302197bb42ca29f9e4d03897195a0f205baacfbbei0",
+    "meta": {
+      "name": "Squiggles",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2d5d1ce409b05926ce3616adf9c052ec5cd50548e097a92da901a4a22315dbcei0",
+    "meta": {
+      "name": "Recursed",
+      "attributes": []
+    }
+  },
+  {
+    "id": "855f04460ff5cee3fa9d6df13b3f53ef9644533eae4cb4222c79f08dcdf4f635i0",
+    "meta": {
+      "name": "gawg",
+      "attributes": []
+    }
+  },
+  {
+    "id": "855f04460ff5cee3fa9d6df13b3f53ef9644533eae4cb4222c79f08dcdf4f635i0",
+    "meta": {
+      "name": "decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "ad5f1aa1c198a216c8bd6c0038ea3965d2c911e321a50cb388bab7f4abc01260i0",
+    "meta": {
+      "name": "verz",
+      "attributes": []
+    }
+  },
+  {
+    "id": "cd138bd87ec5e8bbc30d3e97aeb9c07f5c1cfec936644ac4bbed774ab0db31cei0",
+    "meta": {
+      "name": "blocsystem",
+      "attributes": []
+    }
+  },
+  {
+    "id": " 9b560d87e021cfcb76bedcfa6f53057922e7f95f46b6c7175d73d84a479410e3i0",
+    "meta": {
+      "name": "Decordinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4f03c1ad012b930fe080b18a6fbdf6538dc56420241c4fe83d154d5cdf29ec3ei0",
+    "meta": {
+      "name": "FidenzOrdinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b86516be781e1d81253d6a7366b532129285a10e9df43876d803c5e603cfe32ei0",
+    "meta": {
+      "name": "FidenzOrdinal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1d935b370a02859f8b7f61de01e16b4d94c7f69e1ae78b72a4fe1de44b960337i0",
+    "meta": {
+      "name": "FidenzOrdinalSal",
+      "attributes": []
+    }
+  }
+]
